@@ -1,4 +1,6 @@
-# D&D Tools
+# Awesome D&D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome D&D Resources
+
 Inspired by [D&D Tool Compendium [5E]](https://docs.google.com/document/d/1KueQNqIVAGRRFKuqsxckRYbpDSzd2HUcOPEvdxfHKk8) (Google docs file). To be honest, the Google Docs file may be updated more often than this list I am maintaining.
 
 Everything here is either system agnostic or D&D 5E unless otherwise specified.
