@@ -51,7 +51,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Conjuration List](http://imgur.com/a/nZqbW)
 * [Easy character creation](http://www.pathguy.com/ddnext.htm)
 * [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable)
-* [Random NPC Generator](http://npcgenerator.azurewebsites.net)
 
 ## Figurines
 
