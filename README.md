@@ -74,7 +74,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 * [D&D Beyond: Items](https://www.dndbeyond.com/items)
 * [Treasure Generator](http://redkatart.com/dnd5tools)
-* [Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
+* [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 * [Weak Magic Items](http://www.lordbyng.net/inspiration/results.php)
 * [Mithril And Mages Treasure](http://www.mithrilandmages.com/RPG.php#dd5e)
 * [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
