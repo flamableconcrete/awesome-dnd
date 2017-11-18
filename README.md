@@ -92,7 +92,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Tools for building encounters*
 
-* [Encounter and Initiative](http://www.improved-initiative.com/e/r6p75n00)
 * [D&D Beyond: Monsters](https://www.dndbeyond.com/monsters)
 * [Kobold club encounter builder](http://kobold.club/fight/#/encounter-builder)
 * [Poison generator](http://orteil.dashnet.org/randomgen/?gen=vMMEtKRA)
