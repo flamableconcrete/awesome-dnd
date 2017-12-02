@@ -91,6 +91,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Tools for building encounters*
 
+* [Big List of RPG Plots](http://www222.pair.com/sjohn/blueroom/plots.htm) - Abstract RPG plots to build encounters around
 * [D&D Beyond: Monsters](https://www.dndbeyond.com/monsters)
 * [Kobold club encounter builder](http://kobold.club/fight/#/encounter-builder)
 * [Poison generator](http://orteil.dashnet.org/randomgen/?gen=vMMEtKRA)
