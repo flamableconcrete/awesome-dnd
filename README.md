@@ -99,6 +99,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 * [Active combat initiative tracker (Axetax)](https://axe.tax)
 * [Improved Initiative](http://www.improved-initiative.com)
+* [Combat Encounter Tracker](http://critgames.com/wp-content/uploads/2016/02/5th-Ed-Encounter-Sheet-v5.png) - Track initiative and monster stats
+* [Monster stat tracker](http://menoftomorrow.com/5e/Monster%20Cards.pdf) - Just track monster stats for encounters
 
 ## Names
 
