@@ -16,6 +16,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Names](#names)
     - [Generator](#generator)
     - [Updated Rules](#updated-rules)
+    - [Miscellaneous](#miscellaneous)
 - [Desktop Applications](#desktop-applications)
 - [Mobile Applications](#mobile-applications)
     - [Character Manager](#character-manager)
@@ -133,6 +134,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
 * [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
 * [Unearthed Arcana Quick Reference](https://www.learningdnd.com/unearthed-arcana)
+
+## Miscellaneous
+
+*Various websites*
+
+* [History of the Forgotten Realms](http://dnd.eizzn.com) - Interactive calendar of the history of the Realms
 
 # Desktop Applications
 
