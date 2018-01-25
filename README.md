@@ -102,6 +102,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Improved Initiative](http://www.improved-initiative.com)
 * [Combat Encounter Tracker](http://critgames.com/wp-content/uploads/2016/02/5th-Ed-Encounter-Sheet-v5.png) - Track initiative and monster stats
 * [Monster stat tracker](http://menoftomorrow.com/5e/Monster%20Cards.pdf) - Just track monster stats for encounters
+* [Skip's Guide To Monsters - Part 1](http://homebrewery.naturalcrit.com/share/HkWdLqfHSM) - 5e conversions of 3e monsters
 
 ## Names
 
