@@ -16,6 +16,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Names](#names)
     - [Generator](#generator)
     - [Updated Rules](#updated-rules)
+    - [Subreddits](#subreddits)
     - [Miscellaneous](#miscellaneous)
 - [Desktop Applications](#desktop-applications)
 - [Mobile Applications](#mobile-applications)
@@ -36,6 +37,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Donjon](http://donjon.bin.sh) - Awesome resource for everything!
 * [5E SRD](http://www.5esrd.com) - System Reference Document
 * [D&D Beyond](https://www.dndbeyond.com) - Official D&D 5E compendium
+* [Massive DM's Toolkit](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources) - Tons of online DM resources
+* [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 
 # Web Tools
 
@@ -87,6 +90,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Cellule's NPC Generator](http://npcgenerator.azurewebsites.net) - source code https://github.com/cellule/dndGenerator
 * [Total Party Kill NPC Generator](http://character.totalpartykill.ca/5e)
 * [Google Sheets NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
+* [NPCbase](http://www.npcbase.com) - Background generator for NPCs
 
 ## Encounter
 
@@ -136,6 +140,20 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
 * [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
 * [Unearthed Arcana Quick Reference](https://www.learningdnd.com/unearthed-arcana)
+
+## Subreddits
+
+*Best D&D related subreddits. Also be sure to check their wikis*
+
+* [/r/DMAcademy](https://www.reddit.com/r/DMAcademy) - Tips on being a better Dungeon Master
+* [/r/DnDBehindTheScreen](https://www.reddit.com/r/DnDBehindTheScreen) - More tips on being a better Dungeon Master
+* [/r/UnearthedArcana](https://www.reddit.com/r/UnearthedArcana) - Catalog for homebrew material
+* [/r/BehindTheTables](https://www.reddit.com/r/BehindTheTables) - Lots of tables, especially [this post](https://www.reddit.com/r/BehindTheTables/wiki/index)
+* [/r/d100](https://www.reddit.com/r/d100/) - Various d100 lists
+* [/r/battlemaps](https://www.reddit.com/r/battlemaps)
+* [/r/dndmaps](https://www.reddit.com/r/dndmaps)
+* [/r/mapmaking](https://www.reddit.com/r/mapmaking)
+* [/r/worldbuilding](https://www.reddit.com/r/worldbuilding)
 
 ## Miscellaneous
 
