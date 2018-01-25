@@ -160,6 +160,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Various websites*
 
 * [History of the Forgotten Realms](http://dnd.eizzn.com) - Interactive calendar of the history of the Realms
+* [Fantasy Plants](https://www.reddit.com/r/DnD/comments/7rb6rj/i_have_put_countless_hours_into_a_roughly_175) - 175 page document of 5e fantasy plants
 
 # Desktop Applications
 
