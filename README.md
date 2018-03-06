@@ -7,6 +7,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 - [Mega Resources](#mega-resources)
 - [Web Tools](#web-tools)
+    - [Adventures](#adventures)
     - [Character Building](#character-building)
     - [Figurines](#figurines)
     - [Campaign Tracking](#campaign-tracking)
@@ -41,6 +42,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 
 # Web Tools
+
+## Adventures
+
+*Sites with pre-made adventures*
+
+* [5E Adventures by level](https://merricb.com/dungeons-dragons-5e-adventures-by-level) - Links to 100's of 5E adventures
 
 ## Character Building
 
