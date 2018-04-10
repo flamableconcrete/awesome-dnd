@@ -69,6 +69,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Where to buy/customize figurines*
 
 * [Hero Forge Custom Figs](https://www.heroforge.com)
+* [Desktop Hero](http://desktophero3d.com/)
 * [Reaper Fig Finder](https://www.reapermini.com/FigureFinder)
 
 ## Campaign Tracking
