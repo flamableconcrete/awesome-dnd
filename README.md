@@ -191,7 +191,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 # Mobile Applications
 
 ## Bestiary
-* [D&D Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
+* [D&D Companion App [beta]](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 
 ## Character Manager
 
@@ -221,7 +221,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Encounter and campaign building*
 
 ### Android
-* [D&D Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
+* [D&D Companion App [beta]](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 * [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus)
 * [Monster Factory](https://play.google.com/store/apps/details?id=ca.splantio.splant.monsterfactory)
 
