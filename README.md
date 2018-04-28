@@ -41,6 +41,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [D&D Beyond](https://www.dndbeyond.com) - Official D&D 5E compendium
 * [Massive DM's Toolkit](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources) - Tons of online DM resources
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
+* [r/dndnext's Resourcelist](https://www.reddit.com/r/dndnext/wiki/resourcelist) - List of various 5E resources
 
 # Web Tools
 
@@ -63,6 +64,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Conjuration List](http://imgur.com/a/nZqbW)
 * [Easy character creation](http://www.pathguy.com/ddnext.htm)
 * [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable)
+* [Monstrous Races](https://www.dmsguild.com/product/230312/Monstrous-Races) - This document presents rules for playing every creature in the Monster Manual
 
 ## Figurines
 
@@ -100,6 +102,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Total Party Kill NPC Generator](http://character.totalpartykill.ca/5e)
 * [Google Sheets NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
 * [NPCbase](http://www.npcbase.com) - Background generator for NPCs
+* [Subclass Statblocks](https://www.gmbinder.com/share/-L7WtgGX2N9hBqsn1-7V) - Also includes CR ratings for each subclass
 
 ## Encounter
 
@@ -169,13 +172,14 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [/r/dndmaps](https://www.reddit.com/r/dndmaps)
 * [/r/mapmaking](https://www.reddit.com/r/mapmaking)
 * [/r/worldbuilding](https://www.reddit.com/r/worldbuilding)
+* [r/dndnext](https://www.reddit.com/r/dndnext/) - Discussion about 5E, known during the playtest as DnD Next
 
 ## Miscellaneous
 
 *Various websites*
 
 * [History of the Forgotten Realms](http://dnd.eizzn.com) - Interactive calendar of the history of the Realms
-* [Fantasy Plants](https://www.reddit.com/r/DnD/comments/7rb6rj/i_have_put_countless_hours_into_a_roughly_175) - 175 page document of 5e fantasy plants
+* [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists
 
 # Desktop Applications
 
