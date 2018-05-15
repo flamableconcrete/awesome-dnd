@@ -92,6 +92,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Weak Magic Items](http://www.lordbyng.net/inspiration/results.php)
 * [Mithril And Mages Treasure](http://www.mithrilandmages.com/RPG.php#dd5e)
 * [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
+* [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
 
 ## NPC
 
