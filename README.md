@@ -42,6 +42,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Massive DM's Toolkit](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources) - Tons of online DM resources
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 * [r/dndnext's Resourcelist](https://www.reddit.com/r/dndnext/wiki/resourcelist) - List of various 5E resources
+* [D&D Wiki](https://www.dandwiki.com/wiki/Main_Page) - Home of user-generated homebrew pages for various editions
 
 # Web Tools
 
