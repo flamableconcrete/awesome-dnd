@@ -43,6 +43,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 * [r/dndnext's Resourcelist](https://www.reddit.com/r/dndnext/wiki/resourcelist) - List of various 5E resources
 * [D&D Wiki](https://www.dandwiki.com/wiki/Main_Page) - Home of user-generated homebrew pages for various editions
+* [Battlegrounds RPG Links](http://battlegroundsgames.com/links) - Tons of links to digital resources for use with Virtual Tabletop systems
 
 # Web Tools
 
