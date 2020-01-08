@@ -199,13 +199,14 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 # Mobile Applications
 
 ## Bestiary
-* [D&D Companion App [beta]](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
+* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 
 ## Character Manager
 
 *Track your characters*
 
 ### Android
+* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 * [Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire) - $2.99
   * [PHB content for Squire](https://drive.google.com/drive/folders/0B-Hcs3M4HoTuX3hwRTZ4QnJyT1k) - Files to import into Squire's Character Manager Pro app
 * [Fifth Edition Character Sheet](https://play.google.com/store/apps/details?id=com.wgkammerer.testgui.basiccharactersheet.app)
@@ -219,6 +220,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Spell lists*
 
 ### Android
+* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 * [5th Edition Spell Book](https://play.google.com/store/apps/details?id=com.spellsdd5)
 
 ### Apple
@@ -229,9 +231,16 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Encounter and campaign building*
 
 ### Android
-* [D&D Companion App [beta]](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
+* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 * [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus)
 * [Monster Factory](https://play.google.com/store/apps/details?id=ca.splantio.splant.monsterfactory)
+
+## Homebrewing
+
+*Creation of Homebrew content*
+
+### Android
+* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
 
 # Audio and Music
 
