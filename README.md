@@ -58,9 +58,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Let's flesh out some characters!*
 
-* ~~[Orc Pub](http://www.orcpub.com) - Almost a mega resource, has lots of stuff!~~ *(offline)*
-* ~~[Orc Pub 2](https://www.orcpub2.com) - Newer UI for Orc Pub. Pretty much what D&D Beyond should be like IMO~~ *(offline)*
-* [Dungeon Master's Vault](https://www.dungeonmastersvault.com) - **Replaces Orc Pub/Orc Pub 2**
+* [Dungeon Master's Vault](https://www.dungeonmastersvault.com) - **Replaces Orc Pub/Orc Pub 2**. Almost a mega resource, has lots of stuff!
 * [D&D Beyond: Characters](https://www.dndbeyond.com/characters) - Official D&D character resource
 * [D&D Beyond: Spell list](https://www.dndbeyond.com/spells) - Official D&D spell list
 * [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score)
