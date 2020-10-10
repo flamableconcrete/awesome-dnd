@@ -27,6 +27,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Encounter Builder](#encounter-builder)
     - [Homebrewing](#homebrewing)
 - [Audio and Music](#audio-and-music)
+- [Developer Tools](#developer-tools)
 - [Contributing](#contributing)
 
 - - -
