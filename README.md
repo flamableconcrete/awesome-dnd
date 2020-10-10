@@ -257,6 +257,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Syrinscape](https://syrinscape.com)
 * [Ambient Mixer D&D sounds](https://www.ambient-mixer.com/s/d&d)
 
+# Developer Tools
+
+*Resources to help build your own content programmatically*
+
+* [Open5e](https://open5e.com) - Open source resource for 5E SRD content that includes an API
+
 # Contributing
 
 Please feel free to add issues, fork, and make pull requests. Thanks for being interested!
