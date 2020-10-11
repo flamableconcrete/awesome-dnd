@@ -1,8 +1,6 @@
 # Awesome D&D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome D&D Resources
 
-Inspired by [D&D Tool Compendium [5E]](https://docs.google.com/document/d/1KueQNqIVAGRRFKuqsxckRYbpDSzd2HUcOPEvdxfHKk8) (Google docs file). To be honest, the Google Docs file may be updated more often than this list I am maintaining.
-
 Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 - [Mega Resources](#mega-resources)
@@ -36,11 +34,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Resources of epic proportions!*
 
-* [Home Brew](http://homebrewery.naturalcrit.com) - Create your own content that looks official
-* [DM's Guild](http://www.dmsguild.com) - Official place to buy modules and stuff
-* [Donjon](http://donjon.bin.sh) - Awesome resource for everything!
-* [5E SRD](http://www.5esrd.com) - System Reference Document
 * [D&D Beyond](https://www.dndbeyond.com) - Official D&D 5E compendium
+* [5E SRD](http://www.5esrd.com) - System Reference Document
+* [DM's Guild](http://www.dmsguild.com) - Official place to buy modules and stuff
+* [Homebrewery](http://homebrewery.naturalcrit.com) - Create your own content that looks official
+* [GMbinder](https://www.gmbinder.com) - Create and curate homebrew content
+* [Donjon](http://donjon.bin.sh) - Awesome resource for everything!
 * [Massive DM's Toolkit](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources) - Tons of online DM resources
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 * [r/dndnext's Resourcelist](https://www.reddit.com/r/dndnext/wiki/resourcelist) - List of various 5E resources
@@ -63,27 +62,26 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [D&D Beyond: Characters](https://www.dndbeyond.com/characters) - Official D&D character resource
 * [D&D Beyond: Spell list](https://www.dndbeyond.com/spells) - Official D&D spell list
 * [D&D 5e Spell List](https://dnd.sharov.dev/) - Interactive D&D spell list / calculator
-* [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score)
-* [Class Comparison List](https://drive.google.com/file/d/0BzeXlENyiQx3MHhYZTR2c1cwVlU/view)
-* [Conjuration List](http://imgur.com/a/nZqbW)
-* [Easy character creation](http://www.pathguy.com/ddnext.htm)
-* [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable)
+* [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score) - A list of all possible standard stat arrays using the point buy system
+* [5E Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) - A calculator for choosing stats using the point buy system
+* [Pathguy Character Generator](http://www.pathguy.com/ddnext.htm) - A web-based character creation tool that uses SRD sources
+* [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable) - Custom character sheet by [/u/Groctel](https://www.reddit.com/user/Groctel/)
 * [Monstrous Races](https://www.dmsguild.com/product/230312/Monstrous-Races) - This document presents rules for playing every creature in the Monster Manual
 
 ## Figurines
 
 *Where to buy/customize figurines*
 
-* [Hero Forge Custom Figs](https://www.heroforge.com)
-* [Desktop Hero](http://desktophero3d.com/)
-* [Reaper Fig Finder](https://www.reapermini.com/FigureFinder)
+* [Hero Forge Custom Figs](https://www.heroforge.com) - Design your own custom 3D miniatures for purchase with a ton of features including full color 
+* [Desktop Hero](http://desktophero3d.com/) - Design your own custom 3D miniatures for purchase
+* [Reaper Minis](https://www.reapermini.com/FigureFinder) - Very popular pre-made minis
 
 ## Campaign Tracking
 
 *Track your campaigns here*
 
-* [Dungeonomics](http://dungeonomics.com)
-* [Obsidian Portal](https://www.obsidianportal.com)
+* [Dungeonomics](http://dungeonomics.com) - A tool for Dungeon Masters to manage campaign notes 
+* [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 
 ## Treasure
 
@@ -189,6 +187,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [History of the Forgotten Realms](http://dnd.eizzn.com) - Interactive calendar of the history of the Realms
 * [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists
+* [Conjuration List](http://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey
 
 # Desktop Applications
 
