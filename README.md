@@ -20,10 +20,10 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Miscellaneous](#miscellaneous)
 - [Desktop Applications](#desktop-applications)
 - [Mobile Applications](#mobile-applications)
+    - [Multi-tools](#multi-tools)
     - [Character Manager](#character-manager)
     - [Spells](#spells)
     - [Encounter Builder](#encounter-builder)
-    - [Homebrewing](#homebrewing)
 - [Audio and Music](#audio-and-music)
 - [Developer Tools](#developer-tools)
 - [Contributing](#contributing)
@@ -87,8 +87,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Loot and store guides*
 
-* [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 * [D&D Beyond: Items](https://www.dndbeyond.com/items)
+* [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 * [Treasure Generator](http://redkatart.com/dnd5tools)
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 * [Weak Magic Items](http://www.lordbyng.net/inspiration/results.php)
@@ -203,49 +203,31 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 # Mobile Applications
 
-## Bestiary
-* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
+## Multi-tools
+* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator) - ![Android][android] Character sheet manager, spell lists, monster stats, homebrew content creator, and more
 
 ## Character Manager
 
 *Track your characters*
 
-### Android
-* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
-* [Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire) - $2.99
-  * [PHB content for Squire](https://drive.google.com/drive/folders/0B-Hcs3M4HoTuX3hwRTZ4QnJyT1k) - Files to import into Squire's Character Manager Pro app
-* [Fifth Edition Character Sheet](https://play.google.com/store/apps/details?id=com.wgkammerer.testgui.basiccharactersheet.app)
-
-### Apple
-* [Fight Club 5th Edition](https://itunes.apple.com/us/app/fight-club-5th-edition/id901057473?mt=8)
-* [Hero Lab (IPad Only)](https://itunes.apple.com/au/app/hero-lab/id628821549?mt=8)
+* [Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire) - ![Android][android] A character sheet manager
+* [Fifth Edition Character Sheet](https://play.google.com/store/apps/details?id=com.wgkammerer.testgui.basiccharactersheet.app) - ![Android][android] A complete multiple page character sheet for a fifth edition tabletop role playing game
+* [Fight Club 5th Edition](https://itunes.apple.com/us/app/fight-club-5th-edition/id901057473?mt=8) - ![Apple][apple] A digital character sheet that can be all you need to play a Dungeons & Dragons 5th Edition game
+* [Hero Lab (IPad Only)](https://itunes.apple.com/au/app/hero-lab/id628821549?mt=8) - ![Apple][apple] Create, advance, and play Pathfinder & 5th Edition SRD characters and NPCs
 
 ## Spells
 
 *Spell lists*
 
-### Android
-* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
-* [5th Edition Spell Book](https://play.google.com/store/apps/details?id=com.spellsdd5)
-
-### Apple
-* [Spellbook (D&D 5e)](https://itunes.apple.com/us/app/spell-book-d-d-5e/id1148329565?mt=8)
+* [5th Edition Spell Book](https://play.google.com/store/apps/details?id=com.spellsdd5) - ![Android][android]
+* [Spellbook (D&D 5e)](https://itunes.apple.com/us/app/spell-book-d-d-5e/id1148329565?mt=8) - ![Apple][apple]
 
 ## Encounter Builder
 
 *Encounter and campaign building*
 
-### Android
-* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
-* [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus)
-* [Monster Factory](https://play.google.com/store/apps/details?id=ca.splantio.splant.monsterfactory)
-
-## Homebrewing
-
-*Creation of Homebrew content*
-
-### Android
-* [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator)
+* [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus) - ![Android][android]
+* [Monster Factory](https://play.google.com/store/apps/details?id=ca.splantio.splant.monsterfactory) - ![Android][android]
 
 # Audio and Music
 
@@ -266,3 +248,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 # Contributing
 
 Please feel free to add issues, fork, and make pull requests. Thanks for being interested!
+
+[android]: ./images/android.png "Android"
+[apple]: ./images/apple.png "Apple"
