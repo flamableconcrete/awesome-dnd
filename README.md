@@ -153,7 +153,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Dungeon & Town Quick](http://dmtools.tumblr.com)
 * [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
 * [Pymapper](http://pymapper.com)
-* [Ye olde map maker](http://www.yeoldemapmaker.com/editor)
 * [Dave's Mapper](http://davesmapper.com)
 * [Dwarven Forge Mapmaker](http://mapmaker.dwarvenforge.com)
 * [Inkarnate](http://inkarnate.com)
