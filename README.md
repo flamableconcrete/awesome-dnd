@@ -27,6 +27,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Encounter Builder](#encounter-builder)
 - [Audio and Music](#audio-and-music)
 - [Developer Tools](#developer-tools)
+- [Discord Bots](#discord-bots)
 - [Contributing](#contributing)
 
 - - -
@@ -253,6 +254,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Resources to help build your own content programmatically*
 
 * [Open5e](https://open5e.com) - Open source resource for 5E SRD content that includes an API
+
+# Discord Bots
+
+*Useful bots for playing over Discord*
+
+*[Avrae](https://avrae.io/)
 
 # Contributing
 
