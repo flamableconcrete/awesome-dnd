@@ -163,8 +163,9 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Tools for playing online together on a battlemap.*
 
-* [Owlbear Rodeo](https://www.owlbear.rodeo/)
-* [Roll20](https://roll20.net/)
+* [Foundry Virtual Tabletop](https://foundryvtt.com) - A self-hosted, modern, and developer-friendly roleplaying platform
+* [Owlbear Rodeo](https://www.owlbear.rodeo) - "The simplest way to play tabletop games online"
+* [Roll20](https://roll20.net) - A browser-based suite of tools that allows users to create and play tabletop role playing games
 
 ## Updated Rules
 
