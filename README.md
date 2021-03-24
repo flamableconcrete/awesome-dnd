@@ -259,7 +259,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Useful bots for playing over Discord*
 
-*[Avrae](https://avrae.io/)
+* [Avrae](https://avrae.io/)
 
 # Contributing
 
