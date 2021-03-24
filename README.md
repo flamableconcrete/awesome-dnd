@@ -15,6 +15,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Names](#names)
     - [Maps](#maps)
     - [Generator](#generator)
+    - [Virtual Tabletops](#virtual-tabletops)
     - [Updated Rules](#updated-rules)
     - [Subreddits](#subreddits)
     - [Miscellaneous](#miscellaneous)
@@ -26,6 +27,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Encounter Builder](#encounter-builder)
 - [Audio and Music](#audio-and-music)
 - [Developer Tools](#developer-tools)
+- [Discord Bots](#discord-bots)
 - [Contributing](#contributing)
 
 - - -
@@ -157,6 +159,13 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Inkarnate](http://inkarnate.com)
 * [Pyromancers' Dungeon Painter](http://pyromancers.com/dungeon-painter-online)
 
+## Virtual Tabletops
+
+*Tools for playing online together on a battlemap.*
+
+* [Owlbear Rodeo](https://www.owlbear.rodeo/)
+* [Roll20](https://roll20.net/)
+
 ## Updated Rules
 
 *Always more rules*
@@ -245,6 +254,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Resources to help build your own content programmatically*
 
 * [Open5e](https://open5e.com) - Open source resource for 5E SRD content that includes an API
+
+# Discord Bots
+
+*Useful bots for playing over Discord*
+
+* [Avrae](https://avrae.io/)
 
 # Contributing
 
