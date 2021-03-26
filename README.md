@@ -28,6 +28,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Audio and Music](#audio-and-music)
 - [Developer Tools](#developer-tools)
 - [Discord Bots](#discord-bots)
+- [YouTube Channels](#youtube-channels)
 - [Contributing](#contributing)
 
 - - -
@@ -262,6 +263,18 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Useful bots for playing over Discord*
 
 * [Avrae](https://avrae.io/)
+
+# YouTube Channels
+
+*YouTube Channesl related to D&D and/or roleplaying*
+
+* [Dungeon & Dragons](https://www.youtube.com/c/DNDWizards/featured) - The official Dungeons & Dragons channel on YouTub
+* [D&D Beyond](https://www.youtube.com/channel/UCPy-338BEVgDkQade0qJmkw) - Official D&D Beyond Channel
+* [Critical Role](https://www.youtube.com/channel/UCpXBGqwsBkpvcYjsJBQ7LEQ) - Home of "Vox Machina" and "The Mighty Nein"
+* [XP to Level 3](https://www.youtube.com/user/TheDrModnar) -  Tutorials, satire, skits, and all other assortment of videos on Dungeons and Dragons and other TTRPG's
+* [Sly Flourish](https://www.youtube.com/user/SlyFlourish1) - Channel of the author of "Return of the lazy dungeon master"
+* [WASD20](https://www.youtube.com/user/WASD20Nate) - A hub for tabletop role-playing games and fantasy maps
+* [Taking20](https://www.youtube.com/channel/UCly0Thn_yZouwdJtg7Am62A) - A channel dedicated to role-playing games like Dungeons & Dragons, Pathfinder, Starfinder and more
 
 # Contributing
 
