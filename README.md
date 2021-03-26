@@ -198,7 +198,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *YouTube Channels related to D&D and/or roleplaying*
 
-* [Dungeons & Dragons](https://www.youtube.com/c/DNDWizards/featured) - The official Dungeons & Dragons channel on YouTub
+* [Dungeons & Dragons](https://www.youtube.com/c/DNDWizards/featured) - The official Dungeons & Dragons channel on YouTube
 * [D&D Beyond](https://www.youtube.com/channel/UCPy-338BEVgDkQade0qJmkw) - Official D&D Beyond Channel
 * [Critical Role](https://www.youtube.com/channel/UCpXBGqwsBkpvcYjsJBQ7LEQ) - Home of "Vox Machina" and "The Mighty Nein"
 * [XP to Level 3](https://www.youtube.com/user/TheDrModnar) - Tutorials, satire, skits, and all other assortment of videos on D&D and other TTRPG's
