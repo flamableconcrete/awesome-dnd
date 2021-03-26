@@ -196,7 +196,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 ## YouTube Channels
 
-*YouTube Channesl related to D&D and/or roleplaying*
+*YouTube Channels related to D&D and/or roleplaying*
 
 * [Dungeons & Dragons](https://www.youtube.com/c/DNDWizards/featured) - The official Dungeons & Dragons channel on YouTub
 * [D&D Beyond](https://www.youtube.com/channel/UCPy-338BEVgDkQade0qJmkw) - Official D&D Beyond Channel
