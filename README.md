@@ -18,6 +18,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Virtual Tabletops](#virtual-tabletops)
     - [Updated Rules](#updated-rules)
     - [Subreddits](#subreddits)
+    - [YouTube Channels](#youtube-channels)
     - [Miscellaneous](#miscellaneous)
 - [Desktop Applications](#desktop-applications)
 - [Mobile Applications](#mobile-applications)
@@ -191,6 +192,18 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [/r/mapmaking](https://www.reddit.com/r/mapmaking)
 * [/r/worldbuilding](https://www.reddit.com/r/worldbuilding)
 * [r/dndnext](https://www.reddit.com/r/dndnext/) - Discussion about 5E, known during the playtest as DnD Next
+
+## YouTube Channels
+
+*YouTube Channels related to D&D and/or roleplaying*
+
+* [Dungeons & Dragons](https://www.youtube.com/c/DNDWizards/featured) - The official Dungeons & Dragons channel on YouTube
+* [D&D Beyond](https://www.youtube.com/channel/UCPy-338BEVgDkQade0qJmkw) - Official D&D Beyond Channel
+* [Critical Role](https://www.youtube.com/channel/UCpXBGqwsBkpvcYjsJBQ7LEQ) - Home of "Vox Machina" and "The Mighty Nein"
+* [XP to Level 3](https://www.youtube.com/user/TheDrModnar) - Tutorials, satire, skits, and all other assortment of videos on D&D and other TTRPG's
+* [Sly Flourish](https://www.youtube.com/user/SlyFlourish1) - Channel of the author of "Return of the lazy dungeon master"
+* [WASD20](https://www.youtube.com/user/WASD20Nate) - A hub for tabletop role-playing games and fantasy maps
+* [Taking20](https://www.youtube.com/channel/UCly0Thn_yZouwdJtg7Am62A) - A channel dedicated to role-playing games like D&D, Pathfinder, Starfinder and more
 
 ## Miscellaneous
 
