@@ -17,6 +17,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Generator](#generator)
     - [Virtual Tabletops](#virtual-tabletops)
     - [Updated Rules](#updated-rules)
+    - [Converter](#converter)
     - [Subreddits](#subreddits)
     - [YouTube Channels](#youtube-channels)
     - [Miscellaneous](#miscellaneous)
@@ -56,7 +57,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Sites with pre-made adventures*
 
 * [5E Adventures by level](https://merricb.com/dungeons-dragons-5e-adventures-by-level) - Links to 100's of 5E adventures
-* [Dungeon Magazine](https://archive.org/details/dungeonmagazine?sort=titleSorter) - old but gold adventure resources for D&D, use a converter to convert them into 5E.
+* [Dungeon Magazine](https://archive.org/details/dungeonmagazine?sort=titleSorter) - old but gold adventure resources for D&D, use a [converter](#converter) to convert them into 5E.
 
 
 ## Character Building
@@ -126,8 +127,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Improved Initiative](http://www.improved-initiative.com)
 * [Combat Encounter Tracker](http://critgames.com/wp-content/uploads/2016/02/5th-Ed-Encounter-Sheet-v5.png) - Track initiative and monster stats
 * [Monster stat tracker](http://menoftomorrow.com/5e/Monster%20Cards.pdf) - Just track monster stats for encounters
-* [Skip's Guide To Monsters - Part 1](http://homebrewery.naturalcrit.com/share/HkWdLqfHSM) - 5e conversions of 3e monsters
-* [Forgotten Realms Conversion Guide](http://homebrewery.naturalcrit.com/share/S1XjggDT7M) - 5e conversions of 3e Forgotten Realms monsters
 
 ## Names
 
@@ -180,6 +179,14 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
 * [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
 * [Unearthed Arcana Quick Reference](https://www.learningdnd.com/unearthed-arcana)
+
+## Converter
+
+*Convert stuff from older editons to 5E*
+
+* [Conversion Guide](https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf) - Conversion guide from Wizards of the Coast to convert charackters and adventures to fith edition of D&D
+* [Skip's Guide To Monsters - Part 1](http://homebrewery.naturalcrit.com/share/HkWdLqfHSM) - 5e conversions of 3e monsters
+* [Forgotten Realms Conversion Guide](http://homebrewery.naturalcrit.com/share/S1XjggDT7M) - 5e conversions of 3e Forgotten Realms monsters
 
 ## Subreddits
 
