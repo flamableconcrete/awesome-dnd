@@ -56,6 +56,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Sites with pre-made adventures*
 
 * [5E Adventures by level](https://merricb.com/dungeons-dragons-5e-adventures-by-level) - Links to 100's of 5E adventures
+* [Dungeon Magazine](https://archive.org/details/dungeonmagazine?sort=titleSorter) - old but gold adventure resources for D&D, use a converter to convert them into 5E.
+
 
 ## Character Building
 
