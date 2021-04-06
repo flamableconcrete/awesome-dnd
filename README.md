@@ -183,7 +183,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Convert stuff from older editons to 5E*
 
-* [Conversion Guide](https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf) - Conversion guide from Wizards of the Coast to convert characfiters and adventures to fith edition of D&D
+* [Conversion Guide](https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf) - Conversion guide from Wizards of the Coast to convert characters and adventures to fifth edition of D&D
 * [Skip's Guide To Monsters - Part 1](http://homebrewery.naturalcrit.com/share/HkWdLqfHSM) - 5e conversions of 3e monsters
 * [Forgotten Realms Conversion Guide](http://homebrewery.naturalcrit.com/share/S1XjggDT7M) - 5e conversions of 3e Forgotten Realms monsters
 
