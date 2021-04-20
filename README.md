@@ -141,6 +141,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Free to use 2D grid-based map editor accessible from any web browser
 * [RPG Map Editor](https://deepnight.net/tools/rpg-map/) - Top-down 2D grid-based map editor
+* [Dungeon Scrawl](https://dungeonscrawl.com) - Old school maps in minutes
 
 *Pre-made maps of all types*
 
@@ -156,7 +157,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
 * [Pymapper](http://pymapper.com)
 * [Dave's Mapper](http://davesmapper.com)
-* [Dwarven Forge Mapmaker](http://mapmaker.dwarvenforge.com)
 * [Inkarnate](http://inkarnate.com)
 * [Pyromancers' Dungeon Painter](http://pyromancers.com/dungeon-painter-online)
 
@@ -200,7 +200,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [/r/dndmaps](https://www.reddit.com/r/dndmaps)
 * [/r/mapmaking](https://www.reddit.com/r/mapmaking)
 * [/r/worldbuilding](https://www.reddit.com/r/worldbuilding)
-* [r/dndnext](https://www.reddit.com/r/dndnext/) - Discussion about 5E, known during the playtest as DnD Next
+* [/r/dndnext](https://www.reddit.com/r/dndnext/) - Discussion about 5E, known during the playtest as DnD Next
 
 ## YouTube Channels
 
