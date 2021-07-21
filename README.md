@@ -142,6 +142,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Free to use 2D grid-based map editor accessible from any web browser
 * [RPG Map Editor](https://deepnight.net/tools/rpg-map/) - Top-down 2D grid-based map editor
 * [Dungeon Scrawl](https://dungeonscrawl.com) - Old school maps in minutes
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable (world) maps
 
 *Pre-made maps of all types*
 
