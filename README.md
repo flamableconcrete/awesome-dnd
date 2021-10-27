@@ -128,6 +128,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Combat Encounter Tracker](http://critgames.com/wp-content/uploads/2016/02/5th-Ed-Encounter-Sheet-v5.png) - Track initiative and monster stats
 * [Monster stat tracker](http://menoftomorrow.com/5e/Monster%20Cards.pdf) - Just track monster stats for encounters
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
 
 ## Names
 
