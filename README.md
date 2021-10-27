@@ -82,6 +82,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Desktop Hero](http://desktophero3d.com/) - Design your own custom 3D miniatures for purchase
 * [Reaper Minis](https://www.reapermini.com/FigureFinder) - Very popular pre-made minis
 * [Anvl](https://anvl.co) - Custom miniatures
+* [Eldritch Foundry](https://eldritch-foundry.com/) - Even more custom miniatures
 
 ## Campaign Tracking
 
