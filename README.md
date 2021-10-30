@@ -78,7 +78,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Where to buy/customize figurines*
 
-* [Hero Forge Custom Figs](https://www.heroforge.com) - Design your own custom 3D miniatures for purchase with a ton of features including full color 
+* [Hero Forge Custom Figs](https://www.heroforge.com) - Design your own custom 3D miniatures for purchase with a ton of features including full color
 * [Desktop Hero](http://desktophero3d.com/) - Design your own custom 3D miniatures for purchase
 * [Reaper Minis](https://www.reapermini.com/FigureFinder) - Very popular pre-made minis
 * [Anvl](https://anvl.co) - Custom miniatures
@@ -88,7 +88,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Track your campaigns here*
 
-* [Dungeonomics](http://dungeonomics.com) - A tool for Dungeon Masters to manage campaign notes 
+* [Dungeonomics](http://dungeonomics.com) - A tool for Dungeon Masters to manage campaign notes
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 
 ## Treasure
@@ -164,6 +164,10 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Dave's Mapper](http://davesmapper.com)
 * [Inkarnate](http://inkarnate.com)
 * [Pyromancers' Dungeon Painter](http://pyromancers.com/dungeon-painter-online)
+* [Village generator](https://watabou.itch.io/village-generator)
+* [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
+* [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
+* [Perilous Shores](https://watabou.itch.io/perilous-shores)
 
 ## Virtual Tabletops
 
