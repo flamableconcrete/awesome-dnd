@@ -261,7 +261,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Create things*
 
-* [NPC Generator](https://play.google.com/store/apps/details?id=com.npcgen) - ![Android][android] Create simple NPCs (leveled or unleveled) with an emphasis on _quick_ readability. Add custom traits & classes to the generation tables for more content 
+* [NPC Generator](https://play.google.com/store/apps/details?id=com.npcgen) - ![Android][android] Create simple NPCs with an emphasis on _quick_ readability. Can even add custom traits & classes to be used by the generator
 
 ## Spells
 
