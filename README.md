@@ -257,6 +257,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Fight Club 5th Edition](https://itunes.apple.com/us/app/fight-club-5th-edition/id901057473?mt=8) - ![Apple][apple] A digital character sheet that can be all you need to play a Dungeons & Dragons 5th Edition game
 * [Hero Lab (IPad Only)](https://itunes.apple.com/au/app/hero-lab/id628821549?mt=8) - ![Apple][apple] Create, advance, and play Pathfinder & 5th Edition SRD characters and NPCs
 
+## Generator
+
+*Create things*
+
+* [NPC Generator](https://play.google.com/store/apps/details?id=com.npcgen) - ![Android][android] Create simple NPCs with an emphasis on _quick_ readability. Can even add custom traits & classes to be used by the generator
+
 ## Spells
 
 *Spell lists*
