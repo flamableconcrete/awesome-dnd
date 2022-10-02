@@ -152,6 +152,13 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Historic Cities](http://historic-cities.huji.ac.il/historic_cities.html) - Olde maps of real places
 
+## Tokens
+
+*Tools for creating tokens*
+
+* [VTT Token Maker](https://thefatefulforce.com/battle-resources/token-creator/)
+* [Token Stamp 2](https://rolladvantage.com/tokenstamp/)
+
 ## Generator
 
 *Generate all the things!*
