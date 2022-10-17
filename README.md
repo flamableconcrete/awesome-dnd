@@ -49,7 +49,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 * [r/dndnext's Resourcelist](https://www.reddit.com/r/dndnext/wiki/resourcelist) - List of various 5E resources
 * [D&D Wiki](https://www.dandwiki.com/wiki/Main_Page) - Home of user-generated homebrew pages for various editions
-* [Battlegrounds RPG Links](http://battlegroundsgames.com/links) - Tons of links to digital resources for use with Virtual Tabletop systems
 
 # Web Tools
 
@@ -102,7 +101,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 * [Weak Magic Items](http://www.lordbyng.net/inspiration/results.php)
 * [Mithril And Mages Treasure](http://www.mithrilandmages.com/RPG.php#dd5e)
-* [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
 * [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
 
 ## NPC
@@ -120,16 +118,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Tools for building encounters*
 
-* [Big List of RPG Plots](http://www222.pair.com/sjohn/blueroom/plots.htm) - Abstract RPG plots to build encounters around
 * [D&D Beyond: Monsters](https://www.dndbeyond.com/monsters)
-* [Kobold club encounter builder](http://kobold.club/fight/#/encounter-builder)
+* [Kobold club encounter builder](https://koboldplus.club/)
 * [Poison generator](http://orteil.dashnet.org/randomgen/?gen=vMMEtKRA)
 * [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 * [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
-* [Active combat initiative tracker (Axetax)](https://axe.tax)
 * [Improved Initiative](http://www.improved-initiative.com)
-* [Combat Encounter Tracker](http://critgames.com/wp-content/uploads/2016/02/5th-Ed-Encounter-Sheet-v5.png) - Track initiative and monster stats
-* [Monster stat tracker](http://menoftomorrow.com/5e/Monster%20Cards.pdf) - Just track monster stats for encounters
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
 
@@ -146,7 +140,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Free to use 2D grid-based map editor accessible from any web browser
 * [RPG Map Editor](https://deepnight.net/tools/rpg-map/) - Top-down 2D grid-based map editor
-* [Dungeon Scrawl](https://dungeonscrawl.com) - Old school maps in minutes
+* [Dungeon Scrawl](https://www.dungeonscrawl.com) - Old school maps in minutes
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable (world) maps
 
 *Pre-made maps of all types*
@@ -195,7 +189,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [D&D Beyond: Compendium](https://www.dndbeyond.com/compendium)
 * [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
 * [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
-* [Unearthed Arcana Quick Reference](https://www.learningdnd.com/unearthed-arcana)
 
 ## Converter
 
@@ -277,7 +270,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Spell lists*
 
 * [5th Edition Spell Book](https://play.google.com/store/apps/details?id=com.spellsdd5) - ![Android][android]
-* [Spellbook (D&D 5e)](https://itunes.apple.com/us/app/spell-book-d-d-5e/id1148329565?mt=8) - ![Apple][apple]
 
 ## Encounter Builder
 
