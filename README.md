@@ -281,7 +281,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Add some sounds to your gameplay!*
 
-* [Battle Bards sound effects](https://battlebards.com)
 * [Tabletop Audio](http://tabletopaudio.com)
   * [D&D sounds ready to mix](http://bit.ly/2fZ4ypf)
 * [Syrinscape](https://syrinscape.com)
