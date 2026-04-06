@@ -167,6 +167,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 * [Perilous Shores](https://watabou.itch.io/perilous-shores)
+* [GetCharGen](https://getchargen.com/dnd-character-generator) - AI D&D character generator with portrait, class, stats, and backstory in one flow.
 
 ## Virtual Tabletops
 
