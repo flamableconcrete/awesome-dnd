@@ -129,6 +129,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Name generators*
 
 * [Fantasy Name Generators](http://fantasynamegenerators.com)
+* [NameLore](https://namelore.io) - Fantasy name generator with the real meaning behind every name — characters, places, kingdoms, ships, and more.
 
 ## Maps
 
