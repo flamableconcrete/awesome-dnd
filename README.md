@@ -266,6 +266,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
   * [D&D sounds ready to mix](https://bit.ly/2fZ4ypf)
 * [Syrinscape](https://syrinscape.com)
 * [Ambient Mixer D&D sounds](https://www.ambient-mixer.com/s/d&d)
+* [Projector Windows](https://projectorwindows.netlify.app) - Visual ambience guides for in-person games using mini projector window projection (battle maps, atmospheric scenes)
 
 # Developer Tools
 
