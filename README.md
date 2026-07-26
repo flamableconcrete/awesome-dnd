@@ -69,6 +69,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score) - A list of all possible standard stat arrays using the point buy system
 * [5E Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) - A calculator for choosing stats using the point buy system
 * [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources
+* * [Tobi's Tales](https://characterbuilder.tobis-tales.com/) - Free beginner-friendly character builder for the 2014 and 2024 rules (English/German), guided step by step, with printable sheets
 * [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable) - Custom character sheet by [/u/Groctel](https://www.reddit.com/user/Groctel/)
 * [Monstrous Races](https://www.dmsguild.com/product/230312/Monstrous-Races) - This document presents rules for playing every creature in the Monster Manual
 
