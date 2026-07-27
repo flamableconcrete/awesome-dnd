@@ -71,6 +71,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources
 * [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable) - Custom character sheet by [/u/Groctel](https://www.reddit.com/user/Groctel/)
 * [Monstrous Races](https://www.dmsguild.com/product/230312/Monstrous-Races) - This document presents rules for playing every creature in the Monster Manual
+* [Loreweaver](https://loreweaver.net) - A story-first character creator, tell your story and get a sheet at the end
 
 ## Figurines
 
