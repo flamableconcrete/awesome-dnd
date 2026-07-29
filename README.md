@@ -87,6 +87,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Track your campaigns here*
 
 * [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes
+* [Loreify](https://loreify.ai) - Records your sessions (in the browser or over Discord) and turns them into campaign notes, NPCs, quests, and a lore map
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 * [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar
 
@@ -129,6 +130,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Fantasy Name Generators](https://fantasynamegenerators.com)
 * [NameLore](https://namelore.io) - Fantasy name generator where every name comes with its meaning and real Old Norse etymology; covers elves, dwarves, dragons, cities, kingdoms, and more
 * [Japanese Name Generator](https://japanesenamegen.com) - Authentic Japanese names with real kanji, readings and meanings; handy for eastern-inspired settings like Kara-Tur
+* [Loreify Name Generators](https://loreify.ai/tools) - Free name generators for every D&D race, plus damage, encounter, and point-buy calculators
 
 ## Maps
 
