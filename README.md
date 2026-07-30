@@ -165,6 +165,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Inkarnate](https://inkarnate.com)
 * [Village generator](https://watabou.itch.io/village-generator)
 * [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
+* [One-Shot Forge](https://loottableworks.github.io/loot-drop-calculator/one-shot-forge/?utm_source=awesome_dnd&utm_medium=referral_directory&utm_campaign=ltw_free_tool_directory_v1&utm_content=one_shot_forge_generator) - Free, system-neutral, AI-assisted and human-reviewed generator for a five-scene one-shot, exact two- to four-hour run sheet, three to six linked pregenerated characters, a pressure clock, clues, and Markdown or JSON export.
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 * [Perilous Shores](https://watabou.itch.io/perilous-shores)
 * [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite
