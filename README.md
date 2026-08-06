@@ -87,7 +87,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Track your campaigns here*
 
 * [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes
-* [Mordex](https://mordex.world) - A free all-in-one D&D campaign manager: a connected world of NPCs, factions, locations and lore, plus a VTT, combat tracker, session prep and recaps in one place
+* [Mordex](https://mordex.world) - An all-in-one D&D campaign manager: a connected world of NPCs, factions, locations and lore, plus a VTT, combat tracker, session prep and recaps in one place
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 * [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar
 
