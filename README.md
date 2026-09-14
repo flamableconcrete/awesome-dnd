@@ -242,6 +242,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Hobbyte](https://hobbyte.net)
 * [Syrinscape](https://syrinscape.com)
 * [Realm Works](https://www.wolflair.com/realmworks)
+* [Gnasher's Grimoire](https://longislanddungeonmaster.com/grimoire) - Free DM screen that runs offline from a single HTML file with no account or server; bundles the SRD 5.2.1, a combat tracker and a battle map with fog, and imports PDFs, Markdown and Obsidian vaults.
 
 # Mobile Applications
 
