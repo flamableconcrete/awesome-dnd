@@ -168,6 +168,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 * [Perilous Shores](https://watabou.itch.io/perilous-shores)
 * [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite
+* [Free Battlemap Generator](https://usagineko7865-debug.github.io/battlemap-generator/) - One-click dungeon/cave/crypt battlemaps, runs entirely client-side (no upload, no sign-up), Roll20/Foundry grid-ready PNG export, [source](https://github.com/usagineko7865-debug/battlemap-generator) (MIT)
 
 ## AI Game Masters
 
