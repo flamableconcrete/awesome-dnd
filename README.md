@@ -168,6 +168,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 * [Perilous Shores](https://watabou.itch.io/perilous-shores)
 * [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite
+* [Kenji's Game Master Tools](https://cros.land/kenjis-dungeon-master-tools/)
 
 ## AI Game Masters
 
