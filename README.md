@@ -180,6 +180,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Tools for playing online together on a battlemap.*
 
+* [Embers](https://app.embersds.com) - All-in-one TTRPG toolkit with character sheets, campaign management, worldbuilding, and a built-in virtual tabletop
 * [Fantasy Grounds](https://www.fantasygrounds.com) - A virtual tabletop application, which contains a set of tools to assist players of tabletop role-playing games
 * [Foundry Virtual Tabletop](https://foundryvtt.com) - A self-hosted, modern, and developer-friendly roleplaying platform
 * [Owlbear Rodeo](https://www.owlbear.rodeo) - "The simplest way to play tabletop games online"
@@ -247,6 +248,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 ## Multi-tools
 * [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator) - ![Android][android] Character sheet manager, spell lists, monster stats, homebrew content creator, and more
+* [Embers](https://apps.apple.com/us/app/embers-tabletop-rpg-toolkit/id6761209516) - ![Apple][apple] Character sheets, campaigns, worlds, and a virtual tabletop for 5e, 5.5e, Pathfinder, Savage Worlds, and Fate
 
 ## Character Manager
 
