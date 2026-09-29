@@ -231,6 +231,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Alphastream's Forgotten Realms Timeline](https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/) - Interactive calendar of the history of the Realms
 * [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists
 * [Conjuration List](https://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey
+* [PickerSpin Dice Roller](https://pickerspin.co/dice/) - Free 3D dice roller (d4-d20 and custom) for tabletop sessions, no login required, provably fair via the browser's Web Crypto API.
 
 # Desktop Applications
 
