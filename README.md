@@ -129,6 +129,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Fantasy Name Generators](https://fantasynamegenerators.com)
 * [NameLore](https://namelore.io) - Fantasy name generator where every name comes with its meaning and real Old Norse etymology; covers elves, dwarves, dragons, cities, kingdoms, and more
 * [Japanese Name Generator](https://japanesenamegen.com) - Authentic Japanese names with real kanji, readings and meanings; handy for eastern-inspired settings like Kara-Tur
+* [NamesPlease](https://namesplease.app) - Fantasy name generators for towns, kingdoms, taverns, ships, swords, dragons, and Norse or Viking characters; runs in the browser with no sign-up
 
 ## Maps
 
