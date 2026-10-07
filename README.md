@@ -86,6 +86,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Track your campaigns here*
 
+* [Easy Almanac](https://easyalmanac.com/) - A campaign manager that keeps one shared record for the whole table: linked sessions, NPCs and places, player notes the DM approves, and flags when notes contradict each other
 * [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 * [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar
