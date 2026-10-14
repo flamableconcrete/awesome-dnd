@@ -175,6 +175,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Neural Initiative](https://neuralinitiative.ai) - Hosted AI Dungeon Master for 5e: persistent campaign memory, a coded rules engine with real dice, voice narration, solo or up to four players in the browser.
 * [claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) - Open-source AI DM for Claude Code; the engine Neural Initiative is built on.
+* [Quillroll](https://quillroll.com) - Browser-based AI text adventure: a narrator runs fantasy, sci-fi or mystery stories, tracks health and inventory, and offers three choices or free typing each turn. Free daily turns, plus free 5e character, NPC, shop and quest generators.
 
 ## Virtual Tabletops
 
