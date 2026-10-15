@@ -182,6 +182,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Fantasy Grounds](https://www.fantasygrounds.com) - A virtual tabletop application, which contains a set of tools to assist players of tabletop role-playing games
 * [Foundry Virtual Tabletop](https://foundryvtt.com) - A self-hosted, modern, and developer-friendly roleplaying platform
+* [DexArcana](https://dexarcana.com) - Free browser toolkit with a world builder, map maker, a Forge for characters, loot, spells and monsters, DM and Player Screens, and an online lobby for hosting games
 * [Owlbear Rodeo](https://www.owlbear.rodeo) - "The simplest way to play tabletop games online"
 * [Roll20](https://roll20.net) - A browser-based suite of tools that allows users to create and play tabletop role playing games
 
