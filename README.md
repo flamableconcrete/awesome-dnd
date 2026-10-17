@@ -28,6 +28,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Character Manager](#character-manager)
     - [Spells](#spells)
     - [Encounter Builder](#encounter-builder)
+    - [Combat Tracker](#combat-tracker)
 - [Audio and Music](#audio-and-music)
 - [Developer Tools](#developer-tools)
 - [Discord Bots](#discord-bots)
@@ -119,6 +120,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 * [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 * [Improved Initiative](https://improvedinitiative.app/)
+* [Online Initiative Tracker](https://illuminationdevelopment.com/tools/initiative-tracker) - Free browser combat tracker for fifth-edition-compatible games: turn order, hit points, conditions with round counts and death saves, saved in the browser.
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
 
@@ -273,6 +275,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Encounter and campaign building*
 
 * [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus) - ![Android][android]
+
+## Combat Tracker
+
+*Run the fight at the table*
+
+* [Initiative Tracker: DM Tools](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.initiativetracker) - ![Android][android] ![Apple][apple] Free combat tracker for fifth-edition-compatible games: initiative order, hit points with temp HP and undo, conditions with durations, death saves, and SRD 5.1/5.2 monster stat blocks. Works offline. Also on the [App Store](https://apps.apple.com/us/app/initiative-tracker-dm-tools/id6822963357).
 
 # Audio and Music
 
