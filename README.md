@@ -89,6 +89,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 * [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar
+* [RelationCanvas](https://relationcanvas.com/) - Free chart of who's who in a campaign: NPCs, factions and the party, with a label on each direction of a relationship
 
 ## Treasure
 
