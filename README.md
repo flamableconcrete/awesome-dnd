@@ -121,6 +121,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Improved Initiative](https://improvedinitiative.app/)
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
+* [D20 Desk](https://d20desk.com/) - Free 5E encounter calculator, initiative tracker, DM screen, dice roller and character sheet that run in the browser, based on the SRD 5.2.1.
 
 ## Names
 
