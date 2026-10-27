@@ -129,6 +129,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Fantasy Name Generators](https://fantasynamegenerators.com)
 * [NameLore](https://namelore.io) - Fantasy name generator where every name comes with its meaning and real Old Norse etymology; covers elves, dwarves, dragons, cities, kingdoms, and more
 * [Japanese Name Generator](https://japanesenamegen.com) - Authentic Japanese names with real kanji, readings and meanings; handy for eastern-inspired settings like Kara-Tur
+* [Mingzi Chinese Name Generator](https://mingzi.io/chinese-name-generator) - Authentic Chinese character name and surname generator with literal meanings, Pinyin tones, and Five Elements (Wuxing) symbolism for Eastern fantasy, Wuxia, and Monk/Asian-inspired characters
 
 ## Maps
 
