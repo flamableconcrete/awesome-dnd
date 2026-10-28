@@ -242,6 +242,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Hobbyte](https://hobbyte.net)
 * [Syrinscape](https://syrinscape.com)
 * [Realm Works](https://www.wolflair.com/realmworks)
+* [Borealis](https://borealisbuilder.com) - Free, open-source, offline character builder for 5e (2014 and 2024 rules) with a printable sheet; imports Aurora and 5etools content. Windows, macOS, Linux and Android
 
 # Mobile Applications
 
