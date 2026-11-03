@@ -177,6 +177,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 - [Neural Initiative](https://neuralinitiative.ai) - Hosted AI Dungeon Master for 5e: persistent campaign memory, a coded rules engine with real dice, voice narration, solo or up to four players in the browser.
 - [claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) - Open-source AI DM for Claude Code; the engine Neural Initiative is built on.
+- [LoreKeeper](https://lore-keeper.com) - Hosted AI Game Master for 5e-style play: a coded rules engine resolves dice, initiative and conditions while the AI narrates and voices NPCs, solo or up to six players in the browser, with free daily turns and play in English, Spanish, Portuguese or Catalan.
 
 ### Virtual Tabletops
 
