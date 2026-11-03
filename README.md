@@ -1,12 +1,15 @@
 # Awesome D&D [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+>
 > A curated list of awesome D&D Resources
 
 Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 ## Contents
 
-- [Mega Resources](#mega-resources)
-- [Web Tools](#web-tools)
+- [Awesome D\&D ](#awesome-dd-)
+  - [Contents](#contents)
+  - [Mega Resources](#mega-resources)
+  - [Web Tools](#web-tools)
     - [Adventures](#adventures)
     - [Character Building](#character-building)
     - [Figurines](#figurines)
@@ -24,16 +27,17 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Subreddits](#subreddits)
     - [YouTube Channels](#youtube-channels)
     - [Miscellaneous](#miscellaneous)
-- [Desktop Applications](#desktop-applications)
-- [Mobile Applications](#mobile-applications)
+  - [Desktop Applications](#desktop-applications)
+  - [Mobile Applications](#mobile-applications)
     - [Multi-tools](#multi-tools)
     - [Character Manager](#character-manager)
     - [Generator](#generator-1)
     - [Spells](#spells)
     - [Encounter Builder](#encounter-builder)
-- [Audio and Music](#audio-and-music)
-- [Developer Tools](#developer-tools)
-- [Discord Bots](#discord-bots)
+  - [Audio and Music](#audio-and-music)
+  - [Developer Tools](#developer-tools)
+  - [Discord Bots](#discord-bots)
+  - [Contributing](#contributing)
 
 ---
 
@@ -59,7 +63,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Sites with pre-made adventures*
 
 - [Adventure Lookup](https://www.adventurelookup.com/adventures) - Searchable collection of tabletop RPG adventures.
-
 
 ### Character Building
 
@@ -121,8 +124,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 - [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 - [Improved Initiative](https://improvedinitiative.app/)
-- [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
-- [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
 
 ### Names
 
@@ -140,6 +141,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [RPG Map Editor](https://deepnight.net/tools/rpg-map/) - Top-down 2D grid-based map editor.
 - [Dungeon Scrawl](https://www.dungeonscrawl.com) - Old school maps in minutes.
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Web application generating interactive and customizable (world) maps.
+- [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 
 *Pre-made maps of all types*
 
@@ -159,7 +161,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 - [Orteil's Random Generators](https://orteil.dashnet.org/randomgen) - A collection of random generators by Orteil.
 - [Taverns](https://inkwellideas.com/free-tools/random-inn-generator-floorplan)
-- [Donjon](https://donjon.bin.sh)
 - [Dungeon & Town Quick](https://dmtools.tumblr.com)
 - [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
 - [Pymapper](https://pymapper.com)
@@ -167,7 +168,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Inkarnate](https://inkarnate.com)
 - [Village generator](https://watabou.itch.io/village-generator)
 - [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
-- [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 - [Perilous Shores](https://watabou.itch.io/perilous-shores)
 - [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite.
 
@@ -242,12 +242,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [RP Tools](https://www.rptools.net)
 - [Worldographer](https://worldographer.com)
 - [Hobbyte](https://hobbyte.net)
-- [Syrinscape](https://syrinscape.com)
 - [Realm Works](https://www.wolflair.com/realmworks)
 
 ## Mobile Applications
 
 ### Multi-tools
+
 - [5e Companion App](https://play.google.com/store/apps/details?id=com.blastervla.ddencountergenerator) - ![Android](./images/android.png) Character sheet manager, spell lists, monster stats, homebrew content creator, and more.
 
 ### Character Manager
