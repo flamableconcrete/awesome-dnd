@@ -170,6 +170,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
 - [Perilous Shores](https://watabou.itch.io/perilous-shores)
 - [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite.
+- [DmsTinyHut](https://www.dmstinyhut.com) - Free Non-ai encounter, loot and magic item shop generators that makes sense for your party
 
 ### AI Game Masters
 
