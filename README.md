@@ -94,6 +94,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes.
 - [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources.
 - [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
+- [DM Kit](https://dm-kit.com/) - Campaign notes, an initiative tracker with player join by link, Discord, email or QR, a quiz creator, and a free no-signup 5e statblock and NPC maker; syncs notes from Obsidian, Google Drive or manual file uploads.
 
 ### Treasure
 
