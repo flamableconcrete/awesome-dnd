@@ -63,6 +63,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Sites with pre-made adventures*
 
 - [Adventure Lookup](https://www.adventurelookup.com/adventures) - Searchable collection of tabletop RPG adventures.
+- [D&D One-Shot Preview (SRD 5.2.1)](https://github.com/alapha888/dnd-one-shot-shidu) - Free 5-page one-shot preview for first-time DMs, in English and Chinese, with a Session Zero checklist and first-encounter stat cards.
 
 ### Character Building
 
