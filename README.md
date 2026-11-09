@@ -177,6 +177,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 - [Neural Initiative](https://neuralinitiative.ai) - Hosted AI Dungeon Master for 5e: persistent campaign memory, a coded rules engine with real dice, voice narration, solo or up to four players in the browser.
 - [claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) - Open-source AI DM for Claude Code; the engine Neural Initiative is built on.
+- [Orpheus](https://orpheus.gg) - Solo browser RPG run by an AI game master on a visual-novel stage: any setting from a one-sentence pitch, SRD 5.2 rules with real dice rolls, and NPCs that remember you. Free tier.
 
 ### Virtual Tabletops
 
