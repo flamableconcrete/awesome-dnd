@@ -86,6 +86,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Reaper Minis](https://www.reapermini.com/FigureFinder) - Very popular pre-made minis.
 - [Anvl](https://anvl.co) - Custom miniatures.
 - [Eldritch Foundry](https://eldritch-foundry.com/) - Even more custom miniatures.
+- [JuJuBit](https://jujubit.ai) - Turn a photo or idea into a custom full-color physical figurine.
 
 ### Campaign Tracking
 
