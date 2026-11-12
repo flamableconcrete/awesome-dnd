@@ -114,6 +114,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Total Party Kill NPC Generator](https://character.totalpartykill.ca/5e)
 - [Google Sheets NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
 - [Subclass Statblocks](https://www.gmbinder.com/share/-L7WtgGX2N9hBqsn1-7V) - Also includes CR ratings for each subclass.
+- [AvatarSay Fantasy NPC Generator](https://avatarsay.com/fantasy-npc-generator) - Free browser-based random NPC sheet roller (ancestry, role, visual details, plot hook, secret, and opening line) with optional AI talking portrait generation.
 
 ### Encounter
 
