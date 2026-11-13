@@ -76,6 +76,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources.
 - [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable) - Custom character sheet by [/u/Groctel](https://www.reddit.com/user/Groctel/).
 - [Monstrous Races](https://www.dmsguild.com/product/230312/Monstrous-Races) - This document presents rules for playing every creature in the Monster Manual.
+- [Point Buy Calculator](https://darrindrader.com/point-buy-calculator/) - Free 27-point buy calculator with 2014 species or 2024 background bonuses, modifiers, and a custom point budget.
 
 ### Figurines
 
@@ -104,6 +105,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 - [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 - [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
+- [Treasure Hoard Generator](https://darrindrader.com/treasure-hoard-generator/) - Rolls coins, gems, art objects, and SRD magic items by challenge rating, or monster pocket change.
 
 ### NPC
 
@@ -124,6 +126,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 - [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 - [Improved Initiative](https://improvedinitiative.app/)
+- [Encounter Difficulty Calculator](https://darrindrader.com/encounter-calculator/) - Encounter difficulty under the 2014 or 2024 rules, with a table of how many monsters of a given CR fit each difficulty.
 
 ### Names
 
@@ -132,6 +135,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Fantasy Name Generators](https://fantasynamegenerators.com)
 - [NameLore](https://namelore.io) - Fantasy name generator where every name comes with its meaning and real Old Norse etymology; covers elves, dwarves, dragons, cities, kingdoms, and more.
 - [Japanese Name Generator](https://japanesenamegen.com) - Authentic Japanese names with real kanji, readings and meanings; handy for eastern-inspired settings like Kara-Tur.
+- [Fantasy Name Generator](https://darrindrader.com/fantasy-name-generator/) - Character, town, and castle names built on real naming traditions across eight cultures, from Norse and Gaelic to Ancient Greek and Mesopotamian.
 
 ### Maps
 
@@ -233,6 +237,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Alphastream's Forgotten Realms Timeline](https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/) - Interactive calendar of the history of the Realms.
 - [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists.
 - [Conjuration List](https://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey.
+- [Dice Roller](https://darrindrader.com/dice-roller/) - Polyhedral dice roller with advantage, disadvantage, bonuses, critical hits, saved rolls, and history.
+- [Dice Probability Calculator](https://darrindrader.com/dice-probability-calculator/) - Exact odds for any roll, plus hit chance and average damage for attacks against AC and saving throw spells.
 
 ## Desktop Applications
 
