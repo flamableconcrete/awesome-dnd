@@ -104,6 +104,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 - [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 - [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
+- [Treasure Hoard Generator](https://darrindrader.com/treasure-hoard-generator/) - Rolls coins, gems, art objects, and SRD magic items by challenge rating, or monster pocket change.
 
 ### NPC
 
