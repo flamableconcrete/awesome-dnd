@@ -124,6 +124,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 - [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 - [Improved Initiative](https://improvedinitiative.app/)
+- [Encounter Difficulty Calculator](https://darrindrader.com/encounter-calculator/) - Encounter difficulty under the 2014 or 2024 rules, with a table of how many monsters of a given CR fit each difficulty.
 
 ### Names
 
