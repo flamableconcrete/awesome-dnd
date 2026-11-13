@@ -233,6 +233,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Alphastream's Forgotten Realms Timeline](https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/) - Interactive calendar of the history of the Realms.
 - [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists.
 - [Conjuration List](https://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey.
+- [Dice Probability Calculator](https://darrindrader.com/dice-probability-calculator/) - Exact odds for any roll, plus hit chance and average damage for attacks against AC and saving throw spells.
 
 ## Desktop Applications
 
