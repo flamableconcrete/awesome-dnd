@@ -177,6 +177,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 - [Neural Initiative](https://neuralinitiative.ai) - Hosted AI Dungeon Master for 5e: persistent campaign memory, a coded rules engine with real dice, voice narration, solo or up to four players in the browser.
 - [claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) - Open-source AI DM for Claude Code; the engine Neural Initiative is built on.
+- [Lore & Legends Maker](https://llmsaga.com) - Free browser D&D you play solo: make your own character, then explore a fantasy world with real dice, tactical combat and lasting consequences.
 
 ### Virtual Tabletops
 
