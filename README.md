@@ -154,6 +154,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [VTT Token Maker](https://thefatefulforce.com/battle-resources/token-creator/)
 - [Token Stamp 2](https://rolladvantage.com/tokenstamp/)
 - [2 Minute Tabletop Token Editor](https://tools.2minutetabletop.com/token-editor/)
+- [RemoveFree](https://removefree.app/transparent-background-maker) - Free browser-local AI background remover for cutting out character and monster art into transparent PNG/WebP VTT tokens with zero server uploads and no signup.
 
 ### Generator
 
