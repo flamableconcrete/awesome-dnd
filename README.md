@@ -94,6 +94,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes.
 - [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources.
 - [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar.
+- [Seal & Quill](https://sealquill.com/?ref=awesome-dnd) - Turns a GM's session notes into an in-world town newspaper, NPC letters and player secrets (AI-drafted, editable), plus maps with fog of war, generators and a Discord bot. Free plan.
 
 ### Treasure
 
