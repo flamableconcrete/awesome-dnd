@@ -170,6 +170,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
 - [Perilous Shores](https://watabou.itch.io/perilous-shores)
 - [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite.
+- [Tavern & Torch](https://taverntorch.com/) - Free, no-sign-up browser toolkit for game masters: a fantasy ambience soundboard, dice, initiative and party trackers, an encounter calculator, and generators for names, NPCs, loot and dungeons.
 
 ### AI Game Masters
 
