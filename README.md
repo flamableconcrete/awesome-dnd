@@ -243,6 +243,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 - [Worldographer](https://worldographer.com)
 - [Hobbyte](https://hobbyte.net)
 - [Realm Works](https://www.wolflair.com/realmworks)
+- [Encounter Builder](https://community.obsidian.md/plugins/encounter-builder) - Obsidian plugin that adds up an encounter's XP against the 5E or Pathfinder 2e budget in a note.
 
 ## Mobile Applications
 
